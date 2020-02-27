@@ -1,0 +1,51 @@
+
+.navbar-light .navbar-brand{
+    color: rgb(52, 187, 110);
+}
+.acc{
+    list-style: none;
+    margin-bottom: 0px;
+    
+}
+#navbarDropdownMenuLink{
+    color: black;
+}
+#navbarNavDropdown{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-light.navbar-nav.active.nav-link{
+    color:white
+}
+.row{
+    align-items: center;
+
+}
+.col-lg{
+    display: flex;
+    background-color:black;
+    color:white;
+    border-radius: 10px 10px 0px 0px
+
+}
+
+
+.like{
+    color:black;
+}
+.remove{
+    color: red;
+}
+.container{
+    background-color: white;
+    border-radius: 10px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+.charimg{
+    margin-right: 10px;
+}
+body{
+    background-color: grey;
+}
